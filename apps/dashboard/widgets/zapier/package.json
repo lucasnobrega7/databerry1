@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "form-data": "^4.0.0",
-    "zapier-platform-core": "14.1.2"
+    "zapier-platform-core": "16.5.1"
   },
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^11.2.2",
     "should": "^13.2.0"
   },
   "private": true,
